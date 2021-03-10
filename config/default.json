@@ -1,6 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://gawel123:gawel123@devconnector-kxn0i.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "secret",
-  "githubClientId": "27b5c6e9dda913ed0d1f",
-  "githubSecret": "7cc91be381475c819e958406cf7fe758609e81c7"
-}
